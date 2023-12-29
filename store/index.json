@@ -1,7 +1,7 @@
 [{
-		"name": "LTunes",
+		"name": "fortniet",
 		"icon": "https://ltunes.gq/assets/Logo.png",
-		"type": "app",
+		"type": "game",
 		"data": {
 			"type": "IFrame",
 			"url": "https://ltunes.gq",
